@@ -1,7 +1,3 @@
-I can help you create a README file for your project. Based on the project structure visible in the screenshot and the description of your project (LLM tokenizer using Byte-Pair Encoding), here is a draft for the README. You can provide more details for sections where I may need additional information, such as installation or usage steps.
-
----
-
 # LLM Tokenizer using BPE
 
 This project implements a tokenizer for a Large Language Model (LLM) using Byte-Pair Encoding (BPE). The tokenizer is designed to preprocess textual data by converting it into a form that is suitable for language model training and inference, efficiently splitting the text into subword tokens.
